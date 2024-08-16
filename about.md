@@ -1,4 +1,4 @@
-<div style="background-image: url('assets/images/your-background-image.png'); background-size: cover; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('assets/images/About-me.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
   <p style="color: white;">
     <!-- Your about content here -->
     ## About Me
