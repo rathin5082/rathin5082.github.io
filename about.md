@@ -5,7 +5,7 @@ title: About
 
 <style>
   #TOC {
-    display: none;
+    display: none !important;
   }
 </style>
 
