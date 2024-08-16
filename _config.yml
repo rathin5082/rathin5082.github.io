@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: your awesome
+title: ePortfolio
 linkedIn: https://www.linkedin.com/in/rathin-sinha-399472211
 author: Rathin Sinha
 
