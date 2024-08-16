@@ -1,8 +1,7 @@
 ---
 layout: about
 title: About Me
-banner: “assets/images/banners/AI-banner.jpg"
-overlay-image: “assets/images/banners/About-me.jpg”
+banner: “assets/images/banners/About-me.jpg”
 ---
 ## Who
 
