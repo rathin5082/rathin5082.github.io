@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-<div style="background-image: url('assets/images/banners/About-me.jpg'); background-size: cover; background-position: center; height: 80vh; width: 75vw; display: flex; justify-content: center; align-items: center; margin: 0 auto; padding: 0; overflow: hidden; border-radius: 15px; padding-left: 5px;"> <!-- Reduced padding-left -->
+<div style="background-image: url('assets/images/banners/About-me.jpg'); background-size: cover; background-position: center; height: 90vh; width: 85vw; display: flex; justify-content: center; align-items: center; margin: 0 auto; padding: 0; overflow: hidden; border-radius: 15px; padding-left: 5px;"> <!-- Reduced padding-left -->
   <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 600px; color: white;">
     <h2>About Me</h2>
   
