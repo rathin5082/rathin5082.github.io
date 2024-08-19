@@ -1,11 +1,11 @@
+{%- assign name = 'night_mode' -%}
+{%- include functions.html func='get_value' default='on' -%}  <!-- Set default to 'on' for dark mode -->
+{%- assign night_mode = return -%}
 
 <script>
   (function() {
     var html = document.getElementsByTagName('html')[0];
-    var body = document.getElementsByTagName('body')[0];
     var nightShift = true;  // Set nightShift to true for dark mode
     html.dataset.theme = nightShift ? 'dark' : 'light';
-    body.style.backgroundImage = "url('assets/images/banners/AI-banner.jpg')";  // Add this line
-    body.style.backgroundSize = "cover";  // Add this line to cover the entire page
   })();
 </script>
