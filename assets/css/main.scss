@@ -4,7 +4,9 @@
 
 // Default theme colors
 $theme-colors: (
-  "coolblack": #090a0b
+  "coolblack": #090a0b,
+  "spacegray": #808080,
+  "snowwhite": #F3F6FB
 );
 
 // Default brand colors
@@ -16,7 +18,7 @@ $brand-colors: (
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
-$theme-color: map-get($theme-colors, "coolblack");
+$theme-color: map-get($theme-colors, "snowwhite");
 $brand-color: map-get($brand-colors, "orangered");
 
 @if map-has-key($theme-colors, $theme-name) {
