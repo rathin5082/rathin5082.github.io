@@ -3,7 +3,7 @@ layout: post
 title: Understanding Artificial Intelligence
 subtitle: Each post also has a subtitle
 categories: Python
-tags: [Python, intro, certificate]
+tags: [Weka, intro]
 ---
 
 ## Understanding Artificial Intelligence
