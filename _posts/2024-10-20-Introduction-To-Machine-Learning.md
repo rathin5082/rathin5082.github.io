@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Machine Learning
 subtitle: Resources to work with Markdown
-categories: markdown
+categories: Unsupervised Learning
 tags: [EDA, Scikit-Learn, Unsupervised Learning]
 ---
 
