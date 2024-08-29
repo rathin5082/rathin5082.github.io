@@ -8,3 +8,4 @@ tags: [R, Statistics]
 
 ## Resources
 
+[Link to Presentation](subfiles/2024-06-09-presentation.md)
