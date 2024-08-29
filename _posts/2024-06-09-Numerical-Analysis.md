@@ -8,5 +8,4 @@ tags: [R, Statistics]
 
 ## Resources
 
-<a href="https://rathin5082.github.io/subfiles/ProReport-6_compressed.pdf" target="_blank">Open Presentation</a>
-
+[Open PDF](https://rathin5082.github.io/subfiles/ProReport-6_compressed.pdf)
