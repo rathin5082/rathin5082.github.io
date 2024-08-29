@@ -8,4 +8,8 @@ tags: [R, Statistics]
 
 ## Resources
 
-[Link to Inferential-statistics.md](Inferential-statistics.md)
+layout: post
+title: Inferential Statistics
+subtitle: Resources to work with Markdown
+categories: Hypothesis testing
+tags: [R, Statistics]
