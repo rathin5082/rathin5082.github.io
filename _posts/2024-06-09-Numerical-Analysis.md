@@ -8,4 +8,4 @@ tags: [R, Statistics]
 
 ## Resources
 
-[Link to Inferential-statistics.md](Inferential-statistics.md)
+[Link to Inferential-statistics.md](rathin5082.github.io/Inferential-statistics.md)
