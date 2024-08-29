@@ -8,4 +8,3 @@ tags: [R, Statistics]
 
 ## Resources
 
-[Link to subfile](rathin5082.github.io/subfiles/2024-06-09-presentation.md)
