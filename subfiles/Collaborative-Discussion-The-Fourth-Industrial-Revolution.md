@@ -3,8 +3,8 @@ layout: Collaborative-Discussion-The-Fourth-Industrial-Revolution
 title: Summary
 ---
 
-<div style="background-image: url('/assets/images/banners/About-me.jpg'); background-size: cover; background-position: center; height: 90vh; width: 150vw; display: flex; justify-content: center; align-items: center; margin: 0; padding: 0; overflow: hidden;">
-  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 800px; color: white; margin: auto;">
+<div style="background-image: url('/assets/images/banners/About-me.jpg'); background-size: cover; background-position: center; height: 90vh; width: 90vw; display: flex; justify-content: center; align-items: center; margin: 0; padding: 0; overflow: hidden;">
+  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 700px; color: white; margin: auto;">
     <h2>Collaborative Discussion</h2>
 
     <h3>Summary</h3>
