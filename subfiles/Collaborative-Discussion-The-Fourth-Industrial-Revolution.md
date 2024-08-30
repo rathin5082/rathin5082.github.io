@@ -1,6 +1,6 @@
 ---
 layout: Collaborative-Discussion-The-Fourth-Industrial-Revolution
-title: About
+title: Summary
 ---
 
 
