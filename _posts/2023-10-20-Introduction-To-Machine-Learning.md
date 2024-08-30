@@ -14,13 +14,14 @@ This section covers the basics of Machine Learning, including topics like Scikit
 
 1. **Understanding Supervised Learning**
    - This section provides an overview of supervised learning algorithms like Linear Regression and Decision Trees.
-   - **Tags:** `#Supervised Learning` `#Algorithms`
 
 2. **Resources**
    - Access various resources such as PDFs, videos, and tutorials to deepen your understanding of machine learning.
-   - **Tags:** `#Resources` `#Tutorials`
 
 ---
+
+### Collaborative Discussion: The Fourth Industrial revolution
+
 
 ### Tags
 
