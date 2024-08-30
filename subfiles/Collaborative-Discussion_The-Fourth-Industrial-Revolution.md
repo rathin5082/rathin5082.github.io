@@ -5,4 +5,4 @@ subtitle: Resources to work with Markdown
 categories: Unsupervised Learning
 ---
 
-##Summary
+## Summary:
