@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: Collaborative-Discussion-The-Fourth-Industrial-Revolution
 title: About
 ---
 
