@@ -18,21 +18,24 @@ $brand-colors: (
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
+
+// Assign default values to theme and brand colors
 $theme-color: map-get($theme-colors, "snowwhite");
 $brand-color: map-get($brand-colors, "orangered");
 
 @if map-has-key($theme-colors, $theme-name) {
   $theme-color: map-get($theme-colors, $theme-name);
 } @else if str-index($theme-name, "#") == 1 {
-  $theme-color: {{ site.theme_color | default: '#ffffff' }};
+  $theme-color: unquote("{{ site.theme_color | default: '#ffffff' }}");
 }
 
 @if map-has-key($brand-colors, $brand-name) {
   $brand-color: map-get($brand-colors, $brand-name);
 } @else if str-index($brand-name, "#") == 1 {
-  $brand-color: {{ site.brand_color | default: '#ff5100' }};
+  $brand-color: unquote("{{ site.brand_color | default: '#ff5100' }}");
 }
 
-$content-width: {{ site.content_width | default: '920px' }};
+// Set content width, falling back to default if not provided
+$content-width: unquote("{{ site.content_width | default: '920px' }}");
 
 @import "yat";
