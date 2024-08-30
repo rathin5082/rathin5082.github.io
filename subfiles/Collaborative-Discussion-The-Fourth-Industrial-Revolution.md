@@ -4,7 +4,7 @@ title: Summary
 ---
 
 <div style="background-image: url('/assets/images/banners/About-me.jpg'); background-size: cover; background-position: center; height: 100vh; width: 100vw; display: flex; justify-content: center; align-items: center; padding: 0; overflow: hidden; border-radius: 0;"> 
-  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 600px; color: white;">
+  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; width: 80%; color: white; overflow-wrap: break-word">
     <h2>Collaborative Discussion</h2>
   
     <h3>Summary</h3>
