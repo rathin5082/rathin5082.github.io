@@ -20,7 +20,7 @@ This section covers the basics of Machine Learning, including topics like Scikit
 
 ---
 
-### [Collaborative-Discussion-The-Fourth-Industrial-Revolution](/_layouts/Collaborative-Discussion-The-Fourth-Industrial-Revolution.html)
+### [Collaborative-Discussion-The-Fourth-Industrial-Revolution]({{ site.baseurl }}/_layouts/Collaborative-Discussion-The-Fourth-Industrial-Revolution.html)
 
 
 ### Tags
