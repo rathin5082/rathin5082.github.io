@@ -1,7 +1,7 @@
 
 
 <div style="background-image: url('/assets/images/banners/About-me.jpg'); height: 100vh; width: 100vw;">
-  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 700px; color: white; margin-top: auto; margin-bottom: auto;">
+  <div style="background-color: rgba(0, 0, 0, 0.6); padding: 0; text-align: center; max-width: 700px; color: white; margin-top: auto; margin-bottom: auto;">
     <h2>Collaborative Discussion</h2>
 
     <h3>Summary</h3>
