@@ -1,7 +1,4 @@
----
-layout: Collaborative-Discussion-The-Fourth-Industrial-Revolution
-title: Summary
----
+
 
 <div style="background-image: url('/assets/images/banners/About-me.jpg');">
   <div style="background-color: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 15px; text-align: center; max-width: 700px; color: white; margin: auto;">
