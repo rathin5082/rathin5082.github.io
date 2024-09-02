@@ -1,0 +1,14 @@
+.background-container {
+    background-image: url('/assets/images/your_cosmic_image.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: white; /* Adjust text color to ensure readability */
+}
+
+.page-content {
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent layer if necessary */
+    padding: 20px;
+    border-radius: 8px;
+}
