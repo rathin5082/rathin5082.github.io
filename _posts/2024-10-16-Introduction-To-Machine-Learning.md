@@ -22,6 +22,8 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 
 ### [Collaborative Discussion - The Fourth Industrial Revolution](https://rathin5082.github.io/subfiles/Collaborative-Discussion-The-Fourth-Industrial-Revolution.html)
 
+### [Team Project - Learning Outcomes](https://rathin5082.github.io/subfiles/Team-Project-Learning-Outcomes.html)
+
 
 ### Tags
 
