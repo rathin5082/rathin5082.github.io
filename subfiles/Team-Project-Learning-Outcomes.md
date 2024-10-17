@@ -12,14 +12,11 @@ categories: Industry 4.0
 | Technical Skills           | Python                                      | Advanced           | Extensive experience in data analysis and AI   |
 | Technical Skills           | Machine Learning                            | Advanced           | Implemented various ML algorithms and models   |
 | Technical Skills           | Deep Learning                               | Intermediate       | Focus on neural networks for image recognition |
-| Technical Skills           | Natural Language Processing (NLP)           | Intermediate       | Working with biomedical literature mining      |
 | Technical Skills           | Data Visualization (Matplotlib, Seaborn)    | Intermediate       | Used for presenting data insights              |
 | Technical Skills           | Git/GitHub                                  | Intermediate       | Version control for code and documentation     |
 | Technical Skills           | HTML/CSS                                    | Beginner           | Basic web development for GitHub Pages         |
 | Data Science & Analytics   | Statistical Analysis                        | Advanced           | Proficient in hypothesis testing and regression|
-| Data Science & Analytics   | Time-Series Analysis                        | Intermediate       | Experience with datasets involving temporal patterns|
 | Data Science & Analytics   | Feature Engineering                         | Intermediate       | Applied techniques for dimensionality reduction|
-| AI & Healthcare Domain     | Medical Image Analysis                      | Intermediate       | Focus on MRI-techniques for neuro medicine     |
 | Soft Skills                | Communication                               | Advanced           | Strong presentation and writing skills         |
 | Soft Skills                | Team Collaboration                          | Intermediate       | Working on group projects and research         |
 | Soft Skills                | Problem-Solving                             | Advanced           | Experienced in projects and research timelines     |
