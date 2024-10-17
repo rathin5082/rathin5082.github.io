@@ -1,6 +1,6 @@
 ---
 layout: post1
-title: ## Introduction to Machine Learning
+title: Introduction to Machine Learning
 subtitle: 
 categories: Unsupervised Learning
 tags: [EDA, Scikit-Learn, Unsupervised Learning]
