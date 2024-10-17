@@ -1,14 +1,14 @@
 ---
 layout: post1
 title: Introduction to Machine Learning
-subtitle: Resources to work with Markdown
+subtitle: 
 categories: Unsupervised Learning
 tags: [EDA, Scikit-Learn, Unsupervised Learning]
 ---
 
 ## Content Overview
 
-This section covers the basics of Machine Learning, including topics like Scikit-Learn,Regression and Unsupervised Learning.
+This section covers the Collaborative Discussion Forum Summaries, Outcomes from the Team Exercises, Reflective Piece.
 
 ### Key Topics
 
