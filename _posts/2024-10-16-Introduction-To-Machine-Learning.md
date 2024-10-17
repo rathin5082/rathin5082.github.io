@@ -24,6 +24,7 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 
 ### [Team Project - Learning Outcomes](https://rathin5082.github.io/subfiles/Team-Project-Learning-Outcomes.html)
 
+### [Reflective Piece](https://rathin5082.github.io/subfiles/Team-Project-Learning-Outcomes.html)
 
 ### Tags
 
