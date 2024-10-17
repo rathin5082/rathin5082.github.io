@@ -10,6 +10,8 @@ categories: Industry 4.0
 | Skill Category             | Skill                                       | Proficiency Level | Comments                                       |
 |----------------------------|---------------------------------------------|-------------------|------------------------------------------------|
 | Technical Skills           | Python                                      | Advanced           | Extensive experience in data analysis and AI   |
+| Technical Skills           | Scikit-Learn                                | Beginner - Intermediate         | Extensive experience in data analysis and AI   |
+| Technical Skills           | R                                           | Beginner - Intermediate         | Extensive experience in data analysis and AI   |
 | Technical Skills           | Machine Learning                            | Advanced           | Implemented various ML algorithms and models   |
 | Technical Skills           | Deep Learning                               | Intermediate       | Focus on neural networks for image recognition |
 | Technical Skills           | Data Visualization (Matplotlib, Seaborn)    | Intermediate       | Used for presenting data insights              |
