@@ -23,3 +23,5 @@ tags: [EDA, Scikit-Learn, Unsupervised Learning]
     
 - ## Polynomial Regression
     - I compared polynomial fits to linear models and found that polynomial regression could capture more complex relationships              within the data.
+
+ <img src="https://rathin5082.github.io/assets/images/banners/poly.jpg" width="300"/> 
