@@ -15,4 +15,4 @@ My partner and I used Scikit-Learn to perform Machine Learning modeling on the A
 
 It was decided that given the nature of the dataset, K-prototype clustering, which is suited for handling both categorical and numerical data, would be appropriate. 
 
-![Clustering Example](https://rathin5082.github.io/assets/images/banners/cluster.jpg)
+<img src="https://rathin5082.github.io/assets/images/banners/cluster.jpg" alt="Clustering Example" width="500"/>
