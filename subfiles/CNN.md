@@ -1,3 +1,9 @@
+---
+layout: post2
+title: Correlation and Regression
+categories: Unsupervised Learning
+---
+
 ## Convolutional Neural Networks (CNN)
 
 ### Article Summary
