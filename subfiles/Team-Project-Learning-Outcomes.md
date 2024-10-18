@@ -15,5 +15,5 @@ Me and my partner used Scikit-Learn to perform Machine Learning modelling on Air
 
 It was decided that given the nature of the dataset, K-prototype clustering, which is suited for handling both categorical and numerical data, would be appropriate. 
 
-!(https://rathin5082.github.io/assets/images/banners/cluster.jpg)
+(https://rathin5082.github.io/assets/images/banners/cluster.jpg)
 
