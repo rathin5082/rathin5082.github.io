@@ -19,6 +19,8 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 2. #### [Jaccard Coefficient Calculation](https://rathin5082.github.io/subfiles/JCC.html)
 
 3. #### [Gradient Descent and Cost Function](https://rathin5082.github.io/subfiles/Gradient-Descent.html)
+   
+5. #### [Gradient Descent and Cost Function](https://rathin5082.github.io/subfiles/CNN.html)
 
 ---
 
