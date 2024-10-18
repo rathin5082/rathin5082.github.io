@@ -1,1 +1,15 @@
+.post2 {
+    background-image: url('/assets/images/banners/Colab.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: white; /* Adjust the text color to ensure readability */
+    padding: 20px; /* Adjust padding as needed */
+}
 
+.section {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent layer to enhance text visibility */
+    padding: 20px;
+    border-radius: 8px; /* Optional: Add rounded corners */
+}
