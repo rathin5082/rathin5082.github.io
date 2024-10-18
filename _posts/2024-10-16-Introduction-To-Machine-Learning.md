@@ -12,8 +12,9 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 
 ### Projects and Activities
 
-1. ***Correlation and Regression analysis***
-   - I conducted analyses using four Jupyter Notebook programs to understand how changes in data points impact correlation and            regression.   
+1. #### [Correlation and Regression analysis](https://rathin5082.github.io/subfiles/Corr-Reg.html)
+   - I conducted analyses using four Jupyter Notebook programs to understand how changes in data points impact correlation and            regression.
+   - 
 
 2. **Resources**
    - Access various resources such as PDFs, videos, and tutorials to deepen your understanding of machine learning.
