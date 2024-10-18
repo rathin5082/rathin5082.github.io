@@ -6,11 +6,6 @@ categories: Industry 4.0
 ---
 ## Jaccard Coefficient Calculation
 
-### Data Table
-
-<img src="https://rathin5082.github.io/assets/images/banners/Table.jpg" width="500"/>
-
-### Jaccard Coefficient Calculations
 - **(Jack, Mary)**: 0.33
 - **(Jack, Jim)**: 0.25
 - **(Jim, Mary)**: 0.33
