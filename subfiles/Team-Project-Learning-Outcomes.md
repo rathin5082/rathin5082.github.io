@@ -16,3 +16,9 @@ My partner and I used Scikit-Learn to perform Machine Learning modeling on the A
 It was decided that given the nature of the dataset, K-prototype clustering, which is suited for handling both categorical and numerical data, would be appropriate. 
 
 <img src="https://rathin5082.github.io/assets/images/banners/cluster.jpg" alt="Clustering Example" width="500"/>
+
+## What did I learn?
+
+I realized that different kinds of data and different kinds of analyses require different machine-learning techniques. As data analysts/scientists/machine learning engineer, one needs to be precise about what kind of algorithm is the best solution for a given problem. This project enhanced my critical and analytical thinking in this regard. 
+
+I also realized what makes a good and efficient team and what it takes to be a good team member. The most important aspect of an effective team is organisation. Every team should break its main goal into multiple sub-goals, just like a software programme. Depending on how big the team is, every sub-goal should be worked on by a number of people with co-operative behaviours. The team needs a project lead, who should manage the tasks, handle the deadlines and bring the project together. 
