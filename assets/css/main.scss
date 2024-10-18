@@ -39,3 +39,58 @@ $brand-color: map-get($brand-colors, "orangered");
 $content-width: unquote("{{ site.content_width | default: '920px' }}");
 
 @import "yat";
+
+/* Add a gradient background to the entire body */
+body {
+    background: linear-gradient(135deg, #74ebd5 0%, #9face6 100%);
+    color: #333; /* Ensures the text color contrasts well with the background */
+}
+
+/* Optional: Style the main content area */
+.post-content {
+    background-color: rgba(255, 255, 255, 0.85); /* Light background with some transparency */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for a 3D effect */
+}
+
+/* Style for headings */
+h1, h2, h3 {
+    font-family: 'Merriweather', serif; /* Use a different font for headings */
+    color: #4a90e2; /* Change heading color */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Adds a subtle text shadow */
+}
+
+/* Optionally, center align main title */
+h1 {
+    text-align: center;
+}
+
+/* Custom header styling */
+.post-header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #f5f5f5;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #9face6;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
