@@ -4,12 +4,13 @@
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
-    color: white; /* Adjust the text color to ensure readability */
+    color: rgba(255, 255, 255, 1); /* Fully opaque white */ 
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
     padding: 20px; /* Adjust padding as needed */
 }
 
 .section {
-    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent layer to enhance text visibility */
+    background-color: rgba(0, 0, 0, 0.7); /* Optional: Add a semi-transparent layer to enhance text visibility */
     padding: 20px;
     border-radius: 8px; /* Optional: Add rounded corners */ 
 }
