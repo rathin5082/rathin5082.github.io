@@ -7,11 +7,8 @@ categories: Industry 4.0
 ## Jaccard Coefficient Calculation
 
 ### Data Table
-| Name | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4 |
-|------|--------|-------|-------|--------|--------|--------|--------|
-| Jack | M      | Y     | N     | P      | N      | N      | A      |
-| Mary | F      | Y     | N     | P      | A      | P      | N      |
-| Jim  | M      | Y     | P     | N      | N      | N      | A      |
+
+<img src="https://rathin5082.github.io/assets/images/banners/Table.jpg" width="500"/>
 
 ### Jaccard Coefficient Calculations
 - **(Jack, Mary)**: 0.33
