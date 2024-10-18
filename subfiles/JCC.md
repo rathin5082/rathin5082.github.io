@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: 
 categories: Industry 4.0
 
