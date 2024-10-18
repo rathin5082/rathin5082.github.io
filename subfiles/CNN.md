@@ -1,6 +1,5 @@
 ---
 layout: post2
-title: Correlation and Regression
 categories: Unsupervised Learning
 ---
 
