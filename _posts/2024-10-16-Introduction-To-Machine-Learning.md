@@ -16,7 +16,7 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
    - I conducted analyses using four Jupyter Notebook programs to understand how changes in data points impact correlation and            regression.
     
 
-2. ### Jaccard Coefficient Calculation
+2. #### [Jaccard Coefficient Calculation](https://rathin5082.github.io/subfiles/JCC.html)
 
 ---
 
