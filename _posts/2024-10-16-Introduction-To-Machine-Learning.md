@@ -17,10 +17,13 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
     
 
 2. #### [Jaccard Coefficient Calculation](https://rathin5082.github.io/subfiles/JCC.html)
+   - I calculated Jaccard Coefficient for three individuals named Jack, Mary and Jim based on their pathological test results.
 
-3. #### [Gradient Descent and Cost Function](https://rathin5082.github.io/subfiles/Gradient-Descent.html)
+4. #### [Gradient Descent and Cost Function](https://rathin5082.github.io/subfiles/Gradient-Descent.html)
+   - The goal was to explore the gradient descent algorithm and its impact on the cost function through iterative adjustments of the      learning rate and the number of iterations.
    
-5. #### [Convolutional Neural Networks](https://rathin5082.github.io/subfiles/CNN.html)
+6. #### [Convolutional Neural Networks](https://rathin5082.github.io/subfiles/CNN.html)
+   - The task involved running a CNN model and experimenting with input images to assess prediction accuracy.
 
 ---
 
