@@ -8,7 +8,4 @@ tags: [Weka, intro]
 
 ## Understanding Artificial Intelligence
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
-
-
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+[Open PDF](https://rathin5082.github.io/subfiles/ProReport-6_compressed.pdf)
