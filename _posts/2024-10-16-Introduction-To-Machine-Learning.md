@@ -24,7 +24,7 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 6. #### [Convolutional Neural Networks](https://rathin5082.github.io/subfiles/CNN.html)
    - The task involved running a CNN model and experimenting with input images to assess prediction accuracy. Through the                 exploration of CNNs for object recognition, it was observed that these networks are powerful tools capable of learning complex       features from images. The hands-on experimentation reinforced the understanding of how modifications in input can influence          model predictions, ultimately underlining the need for careful dataset selection and model tuning for improved accuracy in           real-world applications.
 
----
+
 
 ### [Collaborative Discussion - The Fourth Industrial Revolution](https://rathin5082.github.io/subfiles/Collaborative-Discussion-The-Fourth-Industrial-Revolution.html)
 
@@ -32,3 +32,4 @@ This section covers the Collaborative Discussion Forum Summaries, Outcomes from 
 
 ### [Reflective Piece](https://rathin5082.github.io/subfiles/Reflective-Piece.html)
 
+---
