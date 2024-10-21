@@ -26,3 +26,5 @@ categories: Supervised Learning
  <img src="https://rathin5082.github.io/assets/images/banners/poly.jpg" width="300"/> 
 
  # Learning Outcomes
+
+ - These four programmes deepened my understanding of how different regression methods are used to model relationships between          variables and predict outcomes.
