@@ -17,5 +17,3 @@ In this activity, I explored the gradient descent algorithm through the `gradien
 - #### Iteration Count:
   As the number of iterations increased, the algorithm had more chances to progressively converge towards the lowest cost. I pointed    out that, although more iterations often produced better results, doing so also lengthened the computation, highlighting the   significance of striking the ideal balance between speed and precision.
 
-### Visualizations
-![Cost vs Iterations](path/to/your/cost_vs_iterations.png)
