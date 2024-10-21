@@ -1,8 +1,5 @@
 ---
-layout: post2
 title: Introduction to Machine Learning
-subtitle: 
-categories: Unsupervised Learning
 ---
 
 ## Content Overview
