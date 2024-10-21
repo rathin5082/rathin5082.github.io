@@ -1,7 +1,6 @@
 ---
 layout: post1
 title: 
-
 ---
 ## Gradient Descent and Cost Function
 
