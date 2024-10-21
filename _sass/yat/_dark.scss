@@ -4,7 +4,7 @@ $dark-text-color: #ffffff !default;
 html[data-theme="dark"]  {
   &[data-scroll-status='top'] {
     header.site-header-transparent {
-      &.site-header {
+      &.site-header { 
         @include media-query($on-laptop) {
           .page-link {
             color: #f8f8f8;
