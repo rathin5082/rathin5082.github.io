@@ -39,7 +39,7 @@ $brand-color: map-get($brand-colors, "orangered");
 $content-width: unquote("{{ site.content_width | default: '920px' }}");
 
 body {
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet) !important;
 }
 
 @import "yat";
