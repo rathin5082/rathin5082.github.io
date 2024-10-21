@@ -1,8 +1,4 @@
----
-layout: post1
-title: ## Reflective Essay
-categories: Self-development
----
+## Reflective Essay
 
 In my final module, I engaged with two assignments that allowed me to delve into practical applications of machine learning. Both assignments presented unique challenges and learning experiences, which not only enhanced my technical skills but also enabled me to understand the complexities and intricacies involved in selecting optimal modelling strategies.
 
