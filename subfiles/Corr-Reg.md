@@ -24,3 +24,5 @@ categories: Supervised Learning
     - Investigating polynomial regression showed how adding polynomial terms could improve the representation of non-linear                interactions. I saw that the model suited the data more closely as I changed the degree of the polynomial, particularly in           cases where the connection between the variables was non-linear. Higher-degree polynomials, however, have the potential to           cause overfitting, which would capture noise instead of the underlying trend, therefore this flexibility came at a cost. The         exercise demonstrated how crucial it is to select the right polynomial degree in order to strike a compromise between                generalisation and model correctness.
 
  <img src="https://rathin5082.github.io/assets/images/banners/poly.jpg" width="300"/> 
+
+ # Learning Outcomes
