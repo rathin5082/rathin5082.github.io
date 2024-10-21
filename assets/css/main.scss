@@ -7,7 +7,6 @@ $theme-colors: (
   "cool-rainbow": linear-gradient(90deg, green, cyan, blue, indigo, violet)
 );
 
-$theme-color: map-get($theme-colors, "cool-rainbow") !important;
 
 // Default brand colors
 $brand-colors: (
@@ -20,7 +19,7 @@ $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
 
 // Assign default values to theme and brand colors
-$theme-color: map-get($theme-colors, "rainbow") !important;
+$theme-color: map-get($theme-colors, "cool-rainbow") !important;
 $brand-color: map-get($brand-colors, "orangered");
 
 @if map-has-key($theme-colors, $theme-name) {
