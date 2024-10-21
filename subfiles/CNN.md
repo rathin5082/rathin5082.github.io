@@ -16,7 +16,7 @@ In the Mayo (2017) article, the advancements in CNN technology were discussed, f
 I ran the `Convolutional Neural Networks (CNN) - Object Recognition.ipynb` and experimented with different input images for prediction. 
 
 - **Changed Input Image**: `plt.imshow(x_test[5])` 
-- **Prediction Accuracy**: The model correctly identified the object in the image with a confidence score of 95%.
+- **Prediction Accuracy**: The model correctly identified the object in the image with a confidence score of 84%.
 
 ### Visual Outputs
 ![Model Prediction](path/to/your/model_prediction.png)
