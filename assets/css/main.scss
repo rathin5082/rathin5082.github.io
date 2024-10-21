@@ -21,11 +21,6 @@ $brand-name: "{{ site.brand_color }}";
 $theme-color: map-get($theme-colors, "rainbow") !important;
 $brand-color: map-get($brand-colors, "orangered");
 
-body {
-    background: $theme-color;
-}
-
-
 @if map-has-key($theme-colors, $theme-name) {
   $theme-color: map-get($theme-colors, $theme-name);
 } @else if str-index($theme-name, "#") == 1 {
