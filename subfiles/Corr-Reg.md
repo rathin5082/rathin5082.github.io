@@ -2,12 +2,11 @@
 layout: post2
 title: Correlation and Regression
 subtitle: 
-categories: Unsupervised Learning
-tags: [EDA, Scikit-Learn, Unsupervised Learning]
+categories: Supervised Learning
 ---
 
 - ## Covariance and Pearson Correlation
-    -  I explored the relationship between different variables and found that as data points varied, the correlation coefficient              changed significantly, reflecting the strength of their relationship.
+    -  I explored the relationship between different variables and found that as data points varied, the correlation coefficient            changed significantly, reflecting the strength of their relationship. Covariance provided insight into if the variables              tended to rise and fall together. However, it did lack a consistent measure of strength. Pearson Correlation was useful for          determining both the direction and the intensity of association by normalising the relationship between -1 and 1. Correlation        coefficient was greatly affected by the addition of outliers or by altering the distribution of data points. This emphasised         how sensitive Pearson correlation is to the variability and outliers in the dataset.
 
 <img src="https://rathin5082.github.io/assets/images/banners/Covariance.jpg" width="300"/>
  
