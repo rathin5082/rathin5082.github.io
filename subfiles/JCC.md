@@ -4,7 +4,7 @@ title:
 categories: Industry 4.0
 
 ---
-## Jaccard Coefficient Calculation:
+## Jaccard Coefficient Calculation: 
 
 It is a statistical measure used to assess similarity between different sets. I calculated the Jaccard coefficients for three pairs of individuals based on their test results, yielding the following values:
 
