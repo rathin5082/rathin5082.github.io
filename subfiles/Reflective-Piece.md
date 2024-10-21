@@ -1,9 +1,10 @@
 ---
 layout: post1
-title: Reflective Piece
 categories: Self-development
-
 ---
+
+## Reflective Essay
+
 In my final module, I engaged with two assignments that allowed me to delve into practical applications of machine learning. Both assignments presented unique challenges and learning experiences, which not only enhanced my technical skills but also enabled me to understand the complexities and intricacies involved in selecting optimal modelling strategies.
 
 The first assignment was a team project where I worked with one of my peers to perform machine learning modelling on the Airbnb dataset using Scikit Learn. Two of my team members had done a fantastic job of performing Exploratory Data Analysis, which made the preprocessed dataset optimal to work on. My partner and I set out to do a clustering analysis to identify hidden patterns in the data. One of the significant challenges I encountered was determining which clustering technique was the most appropriate for the given dataset. The two algorithms I considered were K-means and K-prototype. The choice was not straightforward, as both methods have distinct strengths depending on the nature of the dataset. We needed to make the appropriate decision considering our dataset contained both categorical and numerical features.
